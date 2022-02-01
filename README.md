@@ -1,2 +1,2 @@
 # P7
-P7 - Prédiction du sentiment et détection de bad buzz entraîné sur Dataset Kaggle Sentiment140
+P7 - Sentiment prediction and bad buzz detection - trained using Dataset Kaggle Sentiment140 corpora
